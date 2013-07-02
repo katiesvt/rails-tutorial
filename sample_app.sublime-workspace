@@ -1,0 +1,263 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"review-title"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"header-bott",
+				"header-bottom-tile"
+			],
+			[
+				"color-block-",
+				"color-block-header-cart"
+			],
+			[
+				"height-",
+				"height-header"
+			],
+			[
+				"pro",
+				"product-description"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"marg",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 49.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 516.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/katie/NetBeansProjects/Mage/app/design/frontend/default/nfm2/template/page/html/head.phtml",
+		"/Users/katie/NetBeansProjects/Mage/skin/frontend/default/nfm2/css/checkout.scss",
+		"/Users/katie/NetBeansProjects/Mage/skin/frontend/default/nfm2/css/cart.scss",
+		"/Users/katie/NetBeansProjects/Mage/skin/frontend/default/nfm2/css/common.scss",
+		"/Users/katie/NetBeansProjects/Mage/app/design/frontend/default/nfm2/template/catalog/product/view.phtml",
+		"/Users/katie/NetBeansProjects/Mage/app/design/frontend/default/nfm2/layout/reports.xml",
+		"/Users/katie/NetBeansProjects/Mage/skin/frontend/default/nfm2/css/store.sass",
+		"/Users/katie/NetBeansProjects/Mage/skin/frontend/default/nfm2/css/sidebar.sass",
+		"/Users/katie/NetBeansProjects/Mage/skin/frontend/default/nfm2/css/product.sass",
+		"/Users/katie/NetBeansProjects/Mage/skin/frontend/default/nfm2/css/header.sass",
+		"/Users/katie/NetBeansProjects/Mage/skin/frontend/default/nfm2/css/footer.scss",
+		"/Users/katie/NetBeansProjects/Mage/skin/frontend/default/nfm2/css/_variables.sass",
+		"/Users/katie/NetBeansProjects/Mage/skin/frontend/default/nfm2/css/_variables.scss",
+		"/Users/katie/NetBeansProjects/Mage/skin/frontend/default/nfm2/css/header.scss",
+		"/Users/katie/NetBeansProjects/Mage/skin/frontend/default/nfm2/css/product.scss",
+		"/Users/katie/NetBeansProjects/Mage/skin/frontend/default/nfm2/css/sidebar.scss",
+		"/Users/katie/NetBeansProjects/Mage/skin/frontend/default/nfm2/css/store.scss",
+		"/Users/katie/NetBeansProjects/Mage/skin/frontend/default/nfm2/css/sidebar.css",
+		"/Users/katie/NetBeansProjects/Mage/skin/frontend/default/nfm2/css/common.css",
+		"/Users/katie/NetBeansProjects/Mage/skin/frontend/default/nfm2/css/product.css",
+		"/Users/katie/NetBeansProjects/Mage/app/design/frontend/default/nfm2/template/catalog/product/view/description.phtml",
+		"/Users/katie/NetBeansProjects/Mage/app/design/frontend/default/nfm2/template/catalog/product/view/media.phtml",
+		"/Users/katie/NetBeansProjects/Mage/app/design/frontend/base/default/template/catalog/product/view/description.phtml",
+		"/Users/katie/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/katie/NetBeansProjects/Mage/lib/Varien/Autoload.php",
+		"/Users/katie/NetBeansProjects/Mage/lib/Varien/Date.php",
+		"/Users/katie/NetBeansProjects/Mage/lib/Varien/Object.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/katie/NetBeansProjects/Mage/app/design/frontend/",
+			"/Users/katie/NetBeansProjects/Mage/app/design/frontend/default/nfm2",
+			"/",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";$",
+			"\\s\\}",
+			" \\{$",
+			"    ",
+			"^\\}",
+			" \\{$",
+			";$",
+			";|\\{|\\}",
+			";",
+			"}",
+			"{",
+			";",
+			"include",
+			"font-color",
+			"viewed",
+			"left.phtml",
+			"recent",
+			"Recently",
+			"add-to-box",
+			"\n    width: 100%;\n}\n\ntable.data-table td,\ntable.data-table th {\n    border: 1px solid #CDC6A2;\n    text-align: left;\n}\n\ntable.data-table p {\n    margin: 0;\n}\n\ntable.data-table td {\n    padding: 15px;\n    background-color: #F1EED6;\n}\n\ntable.data-table th {\n    font-size: 12px;\n    font-family: \"PT Sans\", san",
+			"translate_tabs_to_spaces"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"  ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pro",
+				"nfm2/css/product.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true
+}
