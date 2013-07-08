@@ -4,6 +4,7 @@ ruby '2.0.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0'
 gem 'bootstrap-sass', '2.3.2.0'
+gem 'bcrypt-ruby', '3.0.1'
 
 group :development, :test do
   # Use sqlite3 as the database for Active Record
@@ -13,6 +14,7 @@ group :development, :test do
   gem 'guard-spork', '1.5.0'
   gem 'childprocess', '0.3.6'
   gem 'spork-rails', github: 'railstutorial/spork-rails'
+  gem 'fuubar'
 end
 
 group :test do
