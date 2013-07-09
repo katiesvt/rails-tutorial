@@ -22,6 +22,7 @@ group :test do
   gem 'capybara'
   gem 'rb-fsevent'
   gem 'terminal-notifier'
+  gem 'factory_girl_rails', '4.2.1'
 end
 
 group :production do
