@@ -3,7 +3,6 @@ ruby '2.0.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0'
-gem 'bootstrap-sass', '2.3.2.0'
 gem 'bcrypt-ruby', '3.0.1'
 
 group :development, :test do
@@ -23,6 +22,8 @@ group :test do
   gem 'rb-fsevent'
   gem 'terminal-notifier'
   gem 'factory_girl_rails', '4.2.1'
+  gem 'cucumber-rails', '1.3.0', :require => false
+  gem 'database_cleaner', '~> 1.0.0.rc2'
 end
 
 group :production do
@@ -38,6 +39,7 @@ gem 'coffee-rails'
 
 gem 'haml-rails'
 gem 'markdown'
+gem 'simple_form', '~> 3.0.0.rc'
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
